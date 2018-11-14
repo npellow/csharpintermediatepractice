@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#withMosh\C#IntermediateCourse\Lecture7\Lecture7\bin\Debug\Lecture7.exe.config
+C:\Users\User\Documents\C#withMosh\C#IntermediateCourse\Lecture7\Lecture7\bin\Debug\Lecture7.exe
+C:\Users\User\Documents\C#withMosh\C#IntermediateCourse\Lecture7\Lecture7\bin\Debug\Lecture7.pdb
+C:\Users\User\Documents\C#withMosh\C#IntermediateCourse\Lecture7\Lecture7\obj\Debug\Lecture7.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#withMosh\C#IntermediateCourse\Lecture7\Lecture7\obj\Debug\Lecture7.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#IntermediateCourse\Lecture7\Lecture7\obj\Debug\Lecture7.exe
+C:\Users\User\Documents\C#withMosh\C#IntermediateCourse\Lecture7\Lecture7\obj\Debug\Lecture7.pdb
